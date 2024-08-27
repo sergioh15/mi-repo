@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"changed":false,"filter":false,"title":"bash - \"ip-172-31-16-159\" ","tooltip":"bash - \"ip-172-31-16-159\" ","value":"","undoManager":{"mark":-1,"position":-1,"stack":[]},"terminal":{"id":"cloud9_terminal_607","cwd":"","width":1089,"height":262,"scrollTop":192},"timestamp":1724353088505}
+=======
+{"changed":false,"filter":false,"title":"bash - \"ip-172-31-16-159\" ","tooltip":"bash - \"ip-172-31-16-159\" ","value":"","undoManager":{"mark":-1,"position":-1,"stack":[]},"terminal":{"id":"cloud9_terminal_1","cwd":"","width":1089,"height":113,"scrollTop":15141},"timestamp":1724337538615}
+>>>>>>> 6b2a86d22c521f3c6b5da1be23625d63e4c48021
